@@ -8,4 +8,3 @@ The code will cover the following wave based shapes: sphere, half sphere, cylind
 
 ![](https://github.com/brinpat/Wave-Geometry/blob/main/torus_wave.gif)
 
-<img width="445" alt="image" src="https://github.com/brinpat/Wave-Geometry/assets/94605936/72d3e65e-aeba-4ff1-b02a-f1d52dcba8aa">
