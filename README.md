@@ -7,7 +7,7 @@ Similar to traditional shapes but where waves propagate throughout the geometry.
 The code will cover the following wave based shapes: sphere, half sphere, cylinder, cone, cube, cuboid, pyramids and torus.
 
 Spherical Wave:
-![](https://github.com/brinpat/Wave-Geometry/blob/main/spherical_wave.gif)
+![](https://github.com/brinpat/Wave-Geometry/blob/main/sphere_wave.gif)
 
 Cubic Wave:
 ![](https://github.com/brinpat/Wave-Geometry/blob/main/cubic_wave.gif)
