@@ -8,9 +8,13 @@ The code will cover the following wave based shapes: sphere, half sphere, cylind
 
 Spherical Wave:
 ![](https://github.com/brinpat/Wave-Geometry/blob/main/sphere_wave.gif)
+![](https://github.com/brinpat/Wave-Geometry/blob/main/spherical.gif)
 
 Cubic Wave:
 ![](https://github.com/brinpat/Wave-Geometry/blob/main/cubic_wave.gif)
+
+Diamond Wave:
+![](https://github.com/brinpat/Wave-Geometry/blob/main/diamond.gif)
 
 Torus Wave:
 ![](https://github.com/brinpat/Wave-Geometry/blob/main/torus_wave.gif)
