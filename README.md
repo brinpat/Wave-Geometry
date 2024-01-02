@@ -8,6 +8,8 @@ The code will cover the following wave based shapes: sphere, half sphere, cylind
 
 Spherical Wave:
 ![](https://github.com/brinpat/Wave-Geometry/blob/main/sphere_wave.gif)
+
+Spherical Wave Splitting:
 ![](https://github.com/brinpat/Wave-Geometry/blob/main/spherical.gif)
 
 Cubic Wave:
